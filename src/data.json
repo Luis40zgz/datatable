@@ -1,0 +1,116 @@
+[
+  {
+    "entrada": "entrada 1",
+    "camara": "camara 1",
+    "otro": 4,
+    "tally": "tally 1"
+  },
+  {
+    "entrada": "entrada 2",
+    "camara": "camara 2",
+    "otro": 6,
+    "tally": "tally 2"
+  },
+  {
+    "entrada": "entrada 3",
+    "camara": "camara 3",
+    "otro": 7,
+    "tally": "tally 3"
+  },
+  {
+    "entrada": "entrada 4",
+    "camara": "camara 4",
+    "otro": 4,
+    "tally": "tally 4"
+  },
+  {
+    "entrada": "entrada 5",
+    "camara": "camara 5",
+    "otro": 14,
+    "tally": "tally 5"
+  },
+  {
+    "entrada": "entrada 6",
+    "camara": "camara 33",
+    "otro": 24,
+    "tally": "tally 12"
+  },
+  {
+    "entrada": "entrada 7",
+    "camara": "camara 22",
+    "otro": 41,
+    "tally": "tally 100"
+  },
+  {
+    "entrada": "entrada 8",
+    "camara": "camara 27",
+    "otro": 42,
+    "tally": "tally 145"
+  },
+  {
+    "entrada": "entrada 9",
+    "camara": "camara 29",
+    "otro": 35,
+    "tally": "tally 12"
+  },
+  {
+    "entrada": "entrada 10",
+    "camara": "camara 48",
+    "otro": 7,
+    "tally": "tally 45"
+  },
+  {
+    "entrada": "entrada 11",
+    "camara": "camara 37",
+    "otro": 9,
+    "tally": "tally 9"
+  },
+  {
+    "entrada": "entrada 12",
+    "camara": "camara 41",
+    "otro": 11,
+    "tally": "tally 13"
+  },
+  {
+    "entrada": "entrada 13",
+    "camara": "camara 25",
+    "otro": 12,
+    "tally": "tally 51"
+  },
+  {
+    "entrada": "entrada 14",
+    "camara": "camara 23",
+    "otro": 16,
+    "tally": "tally 48"
+  },
+  {
+    "entrada": "entrada 15",
+    "camara": "camara 11",
+    "otro": 32,
+    "tally": "tally 27"
+  },
+  {
+    "entrada": "entrada 16",
+    "camara": "camara 31",
+    "otro": 56,
+    "tally": "tally 45"
+  },
+  {
+    "entrada": "entrada 17",
+    "camara": "camara 21",
+    "otro": 75,
+    "tally": "tally 68"
+  },
+  {
+    "entrada": "entrada 18",
+    "camara": "camara 17",
+    "otro": 19,
+    "tally": "tally 66"
+  },
+  {
+    "entrada": "entrada 19",
+    "camara": "camara 12",
+    "otro": 21,
+    "tally": "tally 56"
+  }
+]

@@ -1,0 +1,30 @@
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.table {
+  border-collapse: collapse;
+  width: 80%;
+}
+.table th,
+.table td {
+  margin: 0;
+  padding: 1rem;
+}
+.table tr {
+  border-bottom: 0.025rem solid black;
+}
+.table tbody tr:nth-child(odd) {
+  background-color: aliceblue;
+}
+.head {
+  border-bottom: 0.125rem solid black;
+  background-color: darkgrey;
+}
+.body {
+}
+.asc,
+.des {
+  cursor: pointer;
+}
